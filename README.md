@@ -14,8 +14,8 @@ A modern, AI-powered task management chatbot with event-driven microservices arc
 | Component | URL |
 |-----------|-----|
 | Frontend | https://frontend-sepia-alpha-94.vercel.app |
-| Backend API | https://zaraa7-phase5.hf.space |
-| API Docs | https://zaraa7-phase5.hf.space/docs |
+| Backend API | https://rabeeka-phase5.hf.space |
+| API Docs | https://rabeeka-phase5.hf.space/docs |
 
 ## What's New in Phase V
 
